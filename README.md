@@ -1,0 +1,2 @@
+# plant_resistance_gene_logistic_regressor
+plant resistance gene logistic regressor
