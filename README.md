@@ -9,7 +9,7 @@ resistancegeneLogisticRegressor(fasta_file, \
                                              prediction_size, \
                                                       output_file)
 ```
-Gaurav Sablok \
+Gaurav \
 Academic Staff Member \
 Bioinformatics \
 Institute for Biochemistry and Biology \
